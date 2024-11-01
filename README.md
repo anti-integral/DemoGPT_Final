@@ -1,4 +1,4 @@
-# Project Name
+# DemoGPT
 
 ![Project Logo](link-to-your-logo.png) 
 **Project Description:**  
